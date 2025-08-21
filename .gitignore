@@ -1,0 +1,14 @@
+# secrets
+.env
+ttstruyenngontinh-5e12e9bda03d.json
+*.json
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+tiếu_tiếu/
+trần_hạo/
+tran_hao_201_300/
+# OS / Editor
+.DS_Store.DS_Store

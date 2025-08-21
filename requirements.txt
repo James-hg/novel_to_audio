@@ -1,0 +1,8 @@
+google-cloud-texttospeech
+google-cloud-monitoring
+google-auth
+python-dateutil
+requests
+beautifulsoup4
+tqdm
+pydub
