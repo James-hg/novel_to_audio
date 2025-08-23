@@ -20,7 +20,7 @@ def clean_text(text) -> str:
         cleaned.append(line)
     return " ".join(cleaned)
 
-# ✂️ Byte-safe chunking with sentence boundary handling
+# Byte-safe chunking with sentence boundary handling
 def split_into_chunks(text, max_bytes=5000) -> list[str]:
     """
     Split a chap into chunks
